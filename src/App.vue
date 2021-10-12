@@ -4,7 +4,7 @@ import { ref } from "vue";
 const items = ref([
   { id: 1, title: "Depde 1.4", list: 1, order: 1 },
   { id: 2.1, title: "Mehmet 1.2", list: 1, order: 2 },
-  { id: 3, title: "Felo 1.3", list: 1, order: 3 },
+  { id: 3.1, title: "Felo 1.3", list: 1, order: 3 },
   { id: 4, title: "İfo 1.4", list: 1, order: 4 },
   { id: 5, title: "Selo 1.4", list: 1, order: 5 },
   { id: 6, title: "Cemo 2.1", list: 2, order: 1 },
