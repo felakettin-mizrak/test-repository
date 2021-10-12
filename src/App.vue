@@ -8,6 +8,7 @@ const items = ref([
   { id: 4, title: "İfo 1.4", list: 1, order: 4 },
   { id: 5, title: "Selo 1.4", list: 1, order: 5 },
   { id: 6, title: "Cemo 2.1", list: 2, order: 1 },
+  { id: 1907, title: "Cemo 2.1", list: 2, order: 1 },
 ]);
 
 const getList = (list) => {
