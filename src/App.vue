@@ -6,7 +6,7 @@ const items = ref([
   { id: 2, title: "Mehmet 1.2", list: 1, order: 2 },
   { id: 3, title: "Felo 1.3", list: 1, order: 3 },
   { id: 4, title: "İfo 1.4", list: 1, order: 4 },
-  { id: 5, title: "Selo 1.5", list: 1, order: 5 },
+  { id: 5, title: "Selo 1.4", list: 1, order: 5 },
   { id: 6, title: "Cemo 2.1", list: 2, order: 1 },
 ]);
 
